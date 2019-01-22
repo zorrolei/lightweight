@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "655DF69D-60AA-4E48-99BC-8ACD9E393398",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CE54562-D1C4-41AB-8646-F1FAB556FEB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DFADA7DA-E019-4756-9468-4997CC97E9C9",
+    "height": 213,
+    "width": 72,
+    "x": 154,
+    "y": 251
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ABE4F2BD-425A-49B0-BCDA-A44E048EF053"
+    },
+    {
+      "class": "text",
+      "id": "D7D523CF-624D-4593-A2FC-35DBCCBE15E5"
+    },
+    {
+      "class": "group",
+      "id": "96C0EEB1-786B-4871-9149-B9AA49D808B6"
+    }
+  ],
+  "name": "Plum",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66307CB2-E7D2-44B1-B179-131480A5F4BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

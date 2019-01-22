@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA3D581F-A803-4578-93BC-F7CDBDD00A8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "947D5217-BB0B-4DCC-B3EB-07E8841DD137",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C79DD69D-4A09-4840-AC96-545C794828DC",
+    "height": 213,
+    "width": 98,
+    "x": 581,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "28F71157-FB86-49B7-979B-65DD9C790241"
+    },
+    {
+      "class": "text",
+      "id": "3E199844-15CE-4D59-909D-BF20B50D0013"
+    },
+    {
+      "class": "group",
+      "id": "5660D2C7-20AD-4CB1-818F-67BDAEE3E0A7"
+    }
+  ],
+  "name": "Pomegranate",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFBC8182-F2B8-456E-B765-3E17208F2253",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

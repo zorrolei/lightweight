@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "67D88967-70D9-467B-B647-E82F8BC19674",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E427DF72-7834-4A22-954B-6DD4EA503CBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "08756D0E-86EB-42BA-ADC8-D681660DE396",
+    "height": 213,
+    "width": 85,
+    "x": 2,
+    "y": 251
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5AE5DCCA-CDE8-4A59-BCAB-19495D97EAF8"
+    },
+    {
+      "class": "text",
+      "id": "347BB769-578F-4231-A372-B41B7A836F31"
+    },
+    {
+      "class": "group",
+      "id": "157C540C-3AC7-463F-80FF-6DA905DA7DCE"
+    }
+  ],
+  "name": "Blackberry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5376CCD-2A23-4D51-AE18-EAC40F376394",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

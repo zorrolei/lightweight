@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4953ADFF-9809-4FED-A5F1-F2EC01553475",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE13E942-BA44-443B-A6B7-AC8C2DF64495",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "292A34E5-ADCC-4AD2-9F18-0139B2C407D2",
+    "height": 213,
+    "width": 72,
+    "x": 448,
+    "y": 251
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "85540820-F3A0-47C1-8F03-A6EEB49B8714"
+    },
+    {
+      "class": "text",
+      "id": "C3B489D5-E6B7-4E52-B897-B1A89F600C54"
+    },
+    {
+      "class": "group",
+      "id": "37A3F224-D46B-47EB-891B-BA2BCC7135DD"
+    }
+  ],
+  "name": "Lime",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7829871A-6495-4971-8CD4-CD38F6E42350",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 2386,
+        "location": 0
+      }
+    ],
+    "string": "规则如下:\r\n\t请将图片以以下规则命名.\r\n\tcom.huawei.gameassistant.png -- 游戏助手\r\n\tcom.android.contacts.activities.DialtactsActivity.png -- 拨号\r\n\tcom.android.documentsui.png -- 下载\r\n\tcom.android.mediacenter.png -- 音乐\r\n\tcom.hicloud.android.clone.png -- 手机克隆\r\n\thuawei.com.android.manager.png -- 安卓\r\n\tcom.android.stk.StkLauncherActivity2.png -- SIM 卡应用2\r\n\tcom.vmall.client.png -- 华为商城\r\n\tcom.huawei.gamebox.global.png -- 游戏盒子\r\n\tcom.android.deskclock.png -- 时钟\r\n\tcom.huawei.android.totemweather.png -- 天气\r\n\tcom.huawei.gamecenter.png -- 游戏中心\r\n\tcom.huawei.android.tips.png -- 玩机技巧\r\n\tcom.huawei.fans.png -- 花粉俱乐部\r\n\tcom.huawei.hwireader.png -- 华为阅读\r\n\ticon_shortcut_mask.png -- 快捷方式图标蒙版\r\n\tcom.huawei.honorclub.android.png -- 荣耀俱乐部\r\n\tcom.android.systemui.flashlight.FlashlightActivity.png -- 手电筒\r\n\tcom.huawei.lives.png -- 生活服务\r\n\tcom.huawei.vassistant.png -- 语言助手\r\n\tcom.huawei.phoneservice.png -- 会员服务\r\n\tcom.huawei.trustspace.png -- 支付保护中心\r\n\tcom.huawei.gamebox.png -- 游戏盒子\r\n\tcom.android.email.png -- 电子邮件\r\n\tcom.android.mms.png -- 短信\r\n\tcom.huawei.KoBackup.png -- 备份\r\n\tcom.huawei.android.totemweatherapp.png -- 天气\r\n\tcom.huawei.systemmanager.png -- 手机管家\r\n\tcom.huawei.himovie.overseas.png -- 华为视频(海外)\r\n\ticon_shortcut.png -- 快捷方式图标背板\r\n\tcom.android.soundrecorder.png -- 录音机\r\n\tcom.huawei.hidisk.png -- 文件夹\r\n\tcom.android.browser.png -- 浏览器\r\n\tcom.android.calculator2.png -- 计算器\r\n\tcom.android.gallery3d.png -- 图库\r\n\tcom.example.android.notepad.png -- 备忘录\r\n\tcom.huawei.accountagent.png -- 云服务\r\n\tcom.huawei.android.remotecontroller.png -- 智能遥控\r\n\tcom.android.stk.StkLauncherActivity.png -- SIM 卡应用1\r\n\tcom.huawei.camera.png -- 相机\r\n\tcom.huawei.smarthome.png -- 智能家居\r\n\tcom.huawei.hiskytone.png -- 天际通\r\n\tcom.huawei.bone.png -- 华为穿戴\r\n\tcom.huawei.himovie.png -- 华为视频\r\n\tcom.huawei.android.findmyphone.png -- 查找我的手机\r\n\tcom.huawei.wallet.png -- 钱包\r\n\tportal_ring_inner_holo.png -- 文件夹\r\n\tcom.huawei.compass.png -- 指南针\r\n\tcom.android.hwmirror.png -- 镜子\r\n\tcom.huawei.hnreader.png -- 荣耀阅读\r\n\tcom.android.settings.png -- 设置\r\n\tcom.android.stk.png -- SIM 卡应用\r\n\tcom.huawei.vdrive.png -- 驾驶模式\r\n\tcom.huawei.appmarket.png -- 应用市场\r\n\tcom.huawei.browser.png -- 浏览器\r\n\tcom.huawei.health.png -- 运动健康\r\n\tcom.huawei.android.hwouc.png -- 系统更新\r\n\tcom.android.contacts.png -- 联系人\r\n\tcom.android.calendar.png -- 日历\r\n\tcom.huawei.android.FMRadio.png -- 收音机\r\n\ticon_shortcut_arrow.png -- 快捷方式图标遮罩\r\n\tcom.huawei.android.thememanager.png -- 主题\r\n\tcom.huawei.hwmarket.vr.png -- VR\r\n\t"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB280C14-E9DC-41AE-8B11-F2B0FB76282B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1990,
+    "width": 1017,
+    "x": 2627,
+    "y": 321
+  },
+  "glyphBounds": "{{227, 4}, {590, 1837}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "规则如下: 请将图片以以下规则命名. c",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "PingFangSC-Regular",
+            "size": 20
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

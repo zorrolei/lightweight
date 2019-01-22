@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DA0CE23-04F2-4591-A947-790E1B1BED34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B5A21A8-4B61-4144-8EE1-4FCEE31E237A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "221C6AE0-0543-426B-90AF-1A3DA2844497",
+    "height": 213,
+    "width": 87,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "83036955-9E19-4E81-AD30-918166FFD420"
+    },
+    {
+      "class": "text",
+      "id": "DEA53CD0-8EA9-47F6-B262-7B28A00C291A"
+    },
+    {
+      "class": "group",
+      "id": "03A994F1-EE51-4D6C-AC82-4EC71AF8DBE1"
+    }
+  ],
+  "name": "Strawberry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABBE4EBD-5DAD-4B01-AE87-F7057F2A3711",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

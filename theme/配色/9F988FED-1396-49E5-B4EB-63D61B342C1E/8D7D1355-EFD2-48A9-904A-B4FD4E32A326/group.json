@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D7D1355-EFD2-48A9-904A-B4FD4E32A326",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A513D32A-C860-46A7-A533-F15D4B9E6A6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE0F0CB4-BD6E-4859-B161-72C886F6C1FB",
+    "height": 213,
+    "width": 72,
+    "x": 594,
+    "y": 251
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "099F16A0-DB5B-456B-8EC1-90C752EDDBDB"
+    },
+    {
+      "class": "text",
+      "id": "9D0FAFD1-AD01-4F5D-87C5-1B10642ABDDE"
+    },
+    {
+      "class": "group",
+      "id": "F0854206-49BC-4A92-8816-74867E80702B"
+    }
+  ],
+  "name": "Peach",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CCEA5E4-78B5-49B2-9C3D-8CA50A1E2D65",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D5F3E7B-25B0-4F35-8E4F-AF33B34AE551",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6F3976F-518F-44E6-9828-212794826784",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A62AF9FB-7784-4D94-8068-536369320D49",
+    "height": 213,
+    "width": 72,
+    "x": 301,
+    "y": 251
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DF8DE4AB-82C9-4450-8B8E-DE6CB5E3F50B"
+    },
+    {
+      "class": "text",
+      "id": "CAB7E00C-03A0-44D6-8FED-6E8D83D26505"
+    },
+    {
+      "class": "group",
+      "id": "8D7F47AB-8FA2-4FF9-98FF-7B537079C9F5"
+    }
+  ],
+  "name": "Grape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14D3F98E-0FB9-4561-A13B-AFB476A203FC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

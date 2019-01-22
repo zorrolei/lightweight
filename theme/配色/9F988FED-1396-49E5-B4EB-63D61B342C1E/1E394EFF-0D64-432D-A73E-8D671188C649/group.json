@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E394EFF-0D64-432D-A73E-8D671188C649",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06B2DEC2-2377-4AC6-9E1C-242A27209216",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10A6F2BB-364B-4832-97F5-6C0F3779029D",
+    "height": 213,
+    "width": 76,
+    "x": 740,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7437C56C-B222-4F5B-9D25-BF02A68A6F47"
+    },
+    {
+      "class": "text",
+      "id": "9D686420-D0A6-47B6-9863-9D0068F77BB8"
+    },
+    {
+      "class": "group",
+      "id": "F6D9DD6D-8491-46F6-879D-6E00DBBC3B63"
+    }
+  ],
+  "name": "Green Tea",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B92F5B14-670D-43A1-924B-7B8A27E0F5F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

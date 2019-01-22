@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "37A3F224-D46B-47EB-891B-BA2BCC7135DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DAA76AF-536F-4E6B-86FA-C81E74D73412",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A02DFFB8-0F37-46A0-B72A-69BA32EF38B8",
+    "height": 127,
+    "width": 72,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F59B60DF-2C02-4C00-BE75-8D24BF0ECBE5"
+    },
+    {
+      "class": "rectangle",
+      "id": "C623715D-FC60-4A49-8270-3456D2A5F71E"
+    },
+    {
+      "class": "rectangle",
+      "id": "D6DB7321-34C7-403B-8981-E137EAEC8D78"
+    }
+  ],
+  "name": "Ice",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC850F11-8B88-4C00-94C0-1DCC23DD51B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

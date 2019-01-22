@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "843E4AA6-1614-4DFB-B202-CF8F8F21444C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A057559-A94C-49A5-9AB5-DCDF257F215F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27B785E8-3847-4237-AB6A-EEA53BC71279",
+    "height": 213,
+    "width": 96,
+    "x": 730,
+    "y": 251
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DB36A601-359A-4C67-A307-EEC681C156F7"
+    },
+    {
+      "class": "text",
+      "id": "9641F636-6C32-40E0-A07B-70875DB89C3A"
+    },
+    {
+      "class": "group",
+      "id": "4EF5354B-79EC-4968-895D-E9C37E35D0E5"
+    }
+  ],
+  "name": "Passion Fruit",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F9F17830-C421-4BB9-BD14-4A2DCC638832",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

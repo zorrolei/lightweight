@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A931775-6619-4351-8CE4-81D62870A90F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21406013-CF42-4186-832A-61E09F1D0E93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A050E52-0A51-420B-A838-A7DFD17BDA28",
+    "height": 213,
+    "width": 72,
+    "x": 301,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8C57F760-52E0-4CBC-97E3-338946BA04D9"
+    },
+    {
+      "class": "text",
+      "id": "AFC6147C-C0D7-4306-BC06-BEB1C491F29F"
+    },
+    {
+      "class": "group",
+      "id": "EF14CC82-746F-4A71-8677-4B0ABD0AD0C0"
+    }
+  ],
+  "name": "Mint",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7D51075-968F-40F3-8D09-F7A8CA0106A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
