@@ -317,6 +317,86 @@
       "id": "4158795C-059A-4B86-BB16-5DA1EEE86146"
     },
     {
+      "class": "artboard",
+      "id": "23AB9C29-C57D-40E3-A207-94E555864F28"
+    },
+    {
+      "class": "artboard",
+      "id": "3D08E8E9-E420-4521-9AEE-E7636F6C2AC6"
+    },
+    {
+      "class": "artboard",
+      "id": "C0297577-0ED1-49B9-9DED-55FD42731483"
+    },
+    {
+      "class": "artboard",
+      "id": "3EC57ED0-AE96-4981-86ED-6111A9A12B90"
+    },
+    {
+      "class": "artboard",
+      "id": "CFB2C8FE-4FB0-42DC-9879-F56F84D870B2"
+    },
+    {
+      "class": "artboard",
+      "id": "DB0A905A-50CF-4A5E-A653-9DD29CF4E27D"
+    },
+    {
+      "class": "artboard",
+      "id": "46A12841-ED8D-4772-8C9B-0DC15997CEA3"
+    },
+    {
+      "class": "artboard",
+      "id": "56D88AC3-FC6F-4E03-A7F9-918EAB6AD157"
+    },
+    {
+      "class": "artboard",
+      "id": "1D3792CC-3247-415E-98D6-EC584B070B19"
+    },
+    {
+      "class": "artboard",
+      "id": "539B0222-5774-4CE4-89B3-EB102B2B4234"
+    },
+    {
+      "class": "artboard",
+      "id": "C225F32B-21F2-456B-8C3F-314B945D72F6"
+    },
+    {
+      "class": "artboard",
+      "id": "7EE209EF-9E6C-4E2E-B40F-6687365A505B"
+    },
+    {
+      "class": "artboard",
+      "id": "09EFE15A-D40E-4150-A5ED-5169DB9B5A8C"
+    },
+    {
+      "class": "artboard",
+      "id": "A74495F5-D2EB-4B88-A52A-B67EB2A8306A"
+    },
+    {
+      "class": "artboard",
+      "id": "63FDCAB1-A1DF-4303-A3FD-203D0B671A71"
+    },
+    {
+      "class": "artboard",
+      "id": "FDDCFFEA-DE78-4CB2-859A-65E31D2FC46A"
+    },
+    {
+      "class": "artboard",
+      "id": "8C149D7E-0B26-48EF-9BE3-09AB49F796E0"
+    },
+    {
+      "class": "artboard",
+      "id": "E09FC247-6141-4986-909E-6749CA346E33"
+    },
+    {
+      "class": "artboard",
+      "id": "7FF1E84E-62FD-4AD4-B546-E176631529A7"
+    },
+    {
+      "class": "artboard",
+      "id": "6938C37D-6DF5-4D9D-B889-E4B4D18E6495"
+    },
+    {
       "class": "text",
       "id": "22FB6142-56F6-4DE1-9F70-39A0637A0AAF"
     },
@@ -450,6 +530,10 @@
     },
     {
       "class": "text",
+      "id": "EDEC1018-3894-45B2-9B0E-26692E73132E"
+    },
+    {
+      "class": "text",
       "id": "F8EE3D22-AA74-42EC-88AF-529C2ADF4501"
     },
     {
@@ -547,6 +631,14 @@
     {
       "class": "text",
       "id": "AB280C14-E9DC-41AE-8B11-F2B0FB76282B"
+    },
+    {
+      "class": "shapePath",
+      "id": "91089747-79A0-46A0-8AE5-1CFE71C42DA8"
+    },
+    {
+      "class": "bitmap",
+      "id": "62EFCDBA-85F5-4EC2-8377-298280AC31E5"
     }
   ],
   "name": "图标",

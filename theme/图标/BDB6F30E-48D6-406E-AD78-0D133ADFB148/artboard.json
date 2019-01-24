@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,8 +60,20 @@
       "id": "34A72355-4207-41CD-9F2E-ADDBF99B207E"
     },
     {
+      "class": "group",
+      "id": "99E9E58B-9436-4831-A2B3-DE477C42C52E"
+    },
+    {
+      "class": "oval",
+      "id": "8AF33EA4-9E73-4C5B-8C4D-621431B2E7DD"
+    },
+    {
       "class": "symbolInstance",
       "id": "9982799D-E8BB-478A-8564-10DCFAA3D9BD"
+    },
+    {
+      "class": "group",
+      "id": "5C1AA014-A286-473A-B6BD-9E8A5567D097"
     }
   ],
   "name": "com.android.settings",

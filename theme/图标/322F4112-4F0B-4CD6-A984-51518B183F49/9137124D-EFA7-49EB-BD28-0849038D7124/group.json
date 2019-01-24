@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 120,
-    "x": 38,
-    "y": 34
+    "height": 114,
+    "width": 114,
+    "x": 39,
+    "y": 39
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -53,6 +53,28 @@
     },
     "endMarkerType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.9921568627450981,
+          "green": 0.2823529411764706,
+          "red": 0.5019607843137256
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,8 +60,16 @@
       "id": "D537DAF8-387D-49B2-A65A-F08FF844BDA7"
     },
     {
+      "class": "oval",
+      "id": "E37B3A41-DDC5-4B84-B2A2-E817BBD75F71"
+    },
+    {
       "class": "symbolInstance",
       "id": "57F5A558-B31F-44EC-AFD1-2E1082CC0E7D"
+    },
+    {
+      "class": "group",
+      "id": "9764701C-8DA2-4FC3-922F-B04E632BA442"
     }
   ],
   "name": "com.android.documentsui",

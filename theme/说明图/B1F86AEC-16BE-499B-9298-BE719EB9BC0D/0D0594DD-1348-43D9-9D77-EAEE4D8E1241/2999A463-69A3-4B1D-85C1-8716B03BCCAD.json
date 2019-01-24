@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2999A463-69A3-4B1D-85C1-8716B03BCCAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92FCDB2E-0FFA-4490-A66C-B7CB90297272",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21DC47B3-0F02-4CA0-B94E-3F16BC30A2C4",
+    "height": 139,
+    "width": 139,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon-bg",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "35E65568-C5B7-4632-B310-78333AC73405_layerStyle",
+      "value": "1E9785E7-3932-4324-87AD-BF87F989FD33"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.7239583333333334,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "11FCF384-F2B6-4B07-A11C-D2197F6A7065",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.239583333333334,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "1DE415BA-50E4-4F69-B79D-7CCE8F202288",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CBC3DA3-9C5D-4756-A677-9E278618F1AE",
+  "verticalSpacing": 0
+}

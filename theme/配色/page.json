@@ -42,7 +42,19 @@
     },
     {
       "class": "group",
-      "id": "DC17EC35-5F95-4F5D-B0F7-DA78AA588905"
+      "id": "39284227-5DB0-44E0-BA13-53CF5827A5DC"
+    },
+    {
+      "class": "group",
+      "id": "D4F5E5F3-8B21-46A9-969E-674039A57B9B"
+    },
+    {
+      "class": "group",
+      "id": "AE891773-98CE-4564-BD27-26224A21396D"
+    },
+    {
+      "class": "group",
+      "id": "CC1D3752-A0C0-4B4B-B499-AB992B81B1FE"
     },
     {
       "class": "group",
@@ -58,11 +70,27 @@
     },
     {
       "class": "group",
+      "id": "7A9D6680-14BC-43F2-A70F-C380DF739464"
+    },
+    {
+      "class": "group",
+      "id": "10EAB71E-CC2C-4642-B2B8-21BF77091ED8"
+    },
+    {
+      "class": "group",
+      "id": "219456EE-F6D4-42DA-8304-411E9CBD4C89"
+    },
+    {
+      "class": "group",
       "id": "E2B7F43F-3DE5-4551-99E3-E2FE1C9B481A"
     },
     {
       "class": "group",
       "id": "96DEFB9E-2B57-4C80-A0D7-984C72F154B9"
+    },
+    {
+      "class": "rectangle",
+      "id": "E2D8D5E1-C354-485E-AA5B-95528406DD1F"
     }
   ],
   "name": "配色",

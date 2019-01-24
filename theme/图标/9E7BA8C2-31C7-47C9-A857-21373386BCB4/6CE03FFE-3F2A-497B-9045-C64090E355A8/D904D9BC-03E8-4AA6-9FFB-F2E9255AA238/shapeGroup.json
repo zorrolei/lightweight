@@ -1,0 +1,106 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D904D9BC-03E8-4AA6-9FFB-F2E9255AA238",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB7918CD-0B82-49DE-BE21-C9AC63FAB2E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33428C71-104F-497D-993E-E1E9182E475F",
+    "height": 48.15005024003572,
+    "width": 55.89416119616635,
+    "x": 17.99617530949797,
+    "y": 57.7693424137546
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B9768070-23B0-4C32-B6C1-AA0601F37357"
+    },
+    {
+      "class": "shapePath",
+      "id": "23B31598-EE87-4D8D-93A2-6EEC20ABA20A"
+    },
+    {
+      "class": "shapePath",
+      "id": "FA2500FC-13F7-4A8F-9D60-8EC9132E541B"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E200B75-212B-46E1-97F5-12795A48B9B6"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D85C818-8FD9-4DA7-9191-0A7185BC16B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B8D1EA4-E553-4902-B1AA-1E31D10DBFB6"
+    },
+    {
+      "class": "shapePath",
+      "id": "67818392-9B5B-48FF-B390-9E76C1AA5BF4"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5F17AAD1-438F-4581-AB45-79373862A38B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F0505D09-ACFE-4D39-809E-BBDEFACCE2F2",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3607843137254902,
+          "green": 0.3647058823529412,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

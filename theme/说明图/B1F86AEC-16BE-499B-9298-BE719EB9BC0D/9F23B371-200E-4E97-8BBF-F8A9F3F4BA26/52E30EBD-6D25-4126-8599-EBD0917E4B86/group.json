@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "52E30EBD-6D25-4126-8599-EBD0917E4B86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EBBF6B8-33D3-4077-BDB4-2FCB017A7DE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0713150A-9BBC-44A5-86F3-7AD9993D7FDA",
+    "height": 101.3541666666667,
+    "width": 101.3541666666667,
+    "x": 18.82291666666667,
+    "y": 18.82291666666667
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B9C3F05F-F6A6-491C-AB41-6EECAEC915A5"
+    },
+    {
+      "class": "group",
+      "id": "1126B7A4-DFD0-481C-BB4F-6C77658C5437"
+    }
+  ],
+  "name": "浏览器",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B54B592A-79C0-4791-8192-F8EFBBB04D59",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.413981119791667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E26F11CB-FFC1-4524-8B39-83D541539427",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.9019607843137255,
+          "green": 0.5568627450980392,
+          "red": 0.3176470588235294
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

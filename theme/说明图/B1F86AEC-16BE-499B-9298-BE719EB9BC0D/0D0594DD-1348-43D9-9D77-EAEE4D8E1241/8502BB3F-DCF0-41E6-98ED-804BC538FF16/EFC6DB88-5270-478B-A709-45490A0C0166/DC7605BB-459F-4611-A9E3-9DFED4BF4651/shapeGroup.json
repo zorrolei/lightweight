@@ -1,0 +1,106 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC7605BB-459F-4611-A9E3-9DFED4BF4651",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8B899B3-73F7-4E07-9484-093108B4E617",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F4290E7-BAF0-44BE-83DB-69B9B7658A6F",
+    "height": 6.64916666666667,
+    "width": 29.25633333333331,
+    "x": 11.96849999999999,
+    "y": 23.27208333333334
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "A09CDD9C-7A79-4622-B3AC-F0C7D287756A"
+    },
+    {
+      "class": "oval",
+      "id": "276D0E0A-FAF4-40CF-ADFD-A7516E0EA322"
+    },
+    {
+      "class": "oval",
+      "id": "1DDC4F41-D352-4366-9E55-29252FDE775C"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2549406A-98D2-4151-A8F1-BD36B8A9D9D7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.239583333333334,
+      "saturation": 1,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.7239583333333334
+      }
+    ],
+    "do_objectID": "2C3CB4B3-2AED-4939-B26B-896E4430A80C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

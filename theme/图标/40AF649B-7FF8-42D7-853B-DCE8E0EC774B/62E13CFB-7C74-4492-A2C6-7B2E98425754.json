@@ -31,6 +31,12 @@
   "name": "icon-bg",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A4F2F81-DFE6-470A-A219-70173BD6D1E8",
+      "overrideName": "35E65568-C5B7-4632-B310-78333AC73405_layerStyle",
+      "value": "1E0EAB86-9CC6-4F8E-8077-563930C28F84"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

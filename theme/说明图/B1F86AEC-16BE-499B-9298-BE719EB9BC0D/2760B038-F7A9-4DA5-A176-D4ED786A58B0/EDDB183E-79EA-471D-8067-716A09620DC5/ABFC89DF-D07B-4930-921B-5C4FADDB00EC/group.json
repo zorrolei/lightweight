@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ABFC89DF-D07B-4930-921B-5C4FADDB00EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7174E62-2FFD-4A37-A0C6-BBE99430C5A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5214EDA-0C54-4D86-948B-686A248456B6",
+    "height": 124.5208333333333,
+    "width": 124.5208333333333,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DC7F6621-5679-4A14-9177-DFDD42610382"
+    },
+    {
+      "class": "group",
+      "id": "45B1C18A-AD90-4230-987B-B8FDFEBE2B42"
+    }
+  ],
+  "name": "计算器 (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BB45702E-DF6C-467F-B962-F9091B89189E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.239583333333334,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "67C46F2F-60F7-49F5-A02D-E2DABF252719",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

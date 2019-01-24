@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC75B154-6A6B-421B-95FB-AC2530FCC236",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0FB7DD2-27D8-48F5-8986-67EE591F57FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97F7C3DC-1026-4491-833E-9CE741E5D17A",
+    "height": 140,
+    "width": 140,
+    "x": 26,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "9DC24F02-D0BF-4A4D-85B0-9CB362543F5E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23EC7579-B6CD-49F9-951C-024649B9A718"
+    }
+  ],
+  "name": "Oval Copy + Oval Copy 2 + Oval Copy 3 Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CA0F50E-9B99-4BEF-B7C7-F159AC0237A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.6784313725490198,
+          "green": 0.2823529411764706,
+          "red": 0.7098039215686275
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

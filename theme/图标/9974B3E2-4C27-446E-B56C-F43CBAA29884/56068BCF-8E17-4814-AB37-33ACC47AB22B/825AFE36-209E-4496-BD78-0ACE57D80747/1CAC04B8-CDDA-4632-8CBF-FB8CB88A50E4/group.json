@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1CAC04B8-CDDA-4632-8CBF-FB8CB88A50E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "842374ED-E284-4AE1-B2CB-E26574ADB0A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2B83BF1-F814-4598-8D8A-A4223FE6E155",
+    "height": 94,
+    "width": 8,
+    "x": 164,
+    "y": 43
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D8B80625-5D3B-4F87-9F0D-B858BD479E29"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E62187D-EBFD-42F3-BA56-97031FAFF261"
+    },
+    {
+      "class": "rectangle",
+      "id": "7053AF82-379D-4EFF-B248-30C0F42687F2"
+    },
+    {
+      "class": "rectangle",
+      "id": "725C1FAA-921B-4532-B632-DA6DE4BA4670"
+    },
+    {
+      "class": "rectangle",
+      "id": "000303AD-C2AE-4101-B625-E5B2265D6006"
+    },
+    {
+      "class": "rectangle",
+      "id": "9F7C68AB-2D9D-42F0-9BD8-3DDF368A9517"
+    },
+    {
+      "class": "rectangle",
+      "id": "57C46CDE-27E1-4E6F-A575-91A0687AED4C"
+    },
+    {
+      "class": "rectangle",
+      "id": "497F1DDF-C236-4BFC-B0EB-56C5AC0F2462"
+    },
+    {
+      "class": "rectangle",
+      "id": "68B63C1F-E7ED-42A6-910C-F87E673D9170"
+    },
+    {
+      "class": "rectangle",
+      "id": "2C234660-3E5E-46E3-AF70-4CC31C6A008C"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C3135D7-EE75-494D-A735-AAA4E8147275"
+    },
+    {
+      "class": "rectangle",
+      "id": "74190AF3-9676-4F8E-A632-C878305D2232"
+    },
+    {
+      "class": "rectangle",
+      "id": "02D567FA-D445-4882-9EBD-424B2E669820"
+    },
+    {
+      "class": "rectangle",
+      "id": "2DA2CDE4-1C7C-469A-B3B3-4D8F48DD0001"
+    }
+  ],
+  "name": "Group 4 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F926980B-41BD-4F5A-9BD3-3AA8F845DCB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

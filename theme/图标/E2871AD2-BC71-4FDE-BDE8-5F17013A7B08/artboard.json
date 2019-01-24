@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,8 +60,36 @@
       "id": "DC0789DC-9D1C-434C-9AE2-946ECD544363"
     },
     {
+      "class": "oval",
+      "id": "76077FDF-450F-4EEF-80CD-BAC684CC52B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "892146A3-E811-4D4B-A56F-B497AF4E42BF"
+    },
+    {
+      "class": "rectangle",
+      "id": "2230D30F-C85C-4245-8EB6-7C7389388646"
+    },
+    {
+      "class": "oval",
+      "id": "4E5979CC-AF90-423F-BFFD-00ED96F47A77"
+    },
+    {
+      "class": "oval",
+      "id": "6760F7E3-596C-45E0-9D75-BFFF543CF478"
+    },
+    {
+      "class": "oval",
+      "id": "197D7B76-0BFE-426E-8B63-07F1CA21FF35"
+    },
+    {
       "class": "symbolInstance",
       "id": "F8C1AACD-8567-46A6-A048-37B4E06604AB"
+    },
+    {
+      "class": "group",
+      "id": "82B1AFD9-E433-4334-82F6-C7E1BCD57649"
     }
   ],
   "name": "com.huawei.android.findmyphone",
@@ -71,7 +108,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "066FD0ED-51B0-4941-817D-8CD0BFC44992",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "148BEFA1-135F-498D-89C0-B82ED0F01906",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD7A99D5-D16B-450F-AC10-F70523B3D9D5",
+    "height": 108,
+    "width": 126,
+    "x": 33,
+    "y": 42
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7487FDDA-E3DB-4D57-9AD2-FAF1B3428CDD"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6084831-0456-4C1E-8618-85975148BDC3"
+    }
+  ],
+  "name": "多云",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3B76C026-2C9D-4896-8A58-307CECBE53DA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A9D9A33B-3F98-475F-BDAF-682865146867",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "780E1BE6-E7BB-4A9C-94DF-D43E8902BED7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 107,
+    "x": 43,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD5788BE-3429-4D3B-A08D-A1B3B67241AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "EEA34F04-E037-46C4-8705-7DB860D3FC21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CE4F234-C183-4D66-9141-9F7FA49D0513"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C8F88C4-09BE-42D5-ADBC-336EB83B0309"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43D6C453-332F-41A2-8B07-45AEAE06535C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C60983FF-7B42-42EF-8C99-A1DA33E95566"
+    }
+  ],
+  "name": "镜子",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

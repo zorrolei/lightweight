@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B707DFD4-E226-4098-9F02-F3176686869B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FCA998E-CE15-4D9F-97EF-216CE4D197DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "90453356-10A5-48E1-A1F1-D28E35A5D11D",
+    "height": 40,
+    "width": 40,
+    "x": 31.10003769653991,
+    "y": 30.99368828738302
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "D206650B-0487-4FA0-962E-093C14670D23"
+    }
+  ],
+  "name": "ic_dribbble_logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 105,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "861F65EF-E725-4463-AB86-3E362E4E70D0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.174698795180723,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "85C9A91E-6A22-4989-8894-7CE0FFA19DB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

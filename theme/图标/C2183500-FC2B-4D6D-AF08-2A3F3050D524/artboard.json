@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,8 +60,16 @@
       "id": "B9981E2D-9223-4599-B7ED-BA3ECFE6FBA5"
     },
     {
+      "class": "group",
+      "id": "4FBA440C-8E2C-4EBF-82F2-A04DEBCD67CD"
+    },
+    {
       "class": "symbolInstance",
       "id": "77920C8B-1ED8-4599-8BBB-C43977BB1C01"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0FFFD0E1-CB0A-4AC9-BBB0-57AE73229EB8"
     }
   ],
   "name": "com.android.calculator2",
@@ -71,7 +88,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -1,0 +1,115 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "45B1C18A-AD90-4230-987B-B8FDFEBE2B42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07FBAD9C-F68C-48AB-88CF-BE30C5EAD77D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A9D8DC4-EB9E-4025-A9D3-E1DBDF4CD160",
+    "height": 124.5208333333333,
+    "width": 124.5208333333333,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A0C42640-1665-437B-A4A0-CDD22DE94039"
+    },
+    {
+      "class": "rectangle",
+      "id": "CC5B80D9-4D70-461C-A540-526422DD1F12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7515155A-079E-44F9-BF18-1E30105A7319"
+    },
+    {
+      "class": "rectangle",
+      "id": "E36E7E9D-6070-4534-AD64-B13F9EF50053"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A598EA7-DA22-4A08-AB40-B6EC49369A0C"
+    },
+    {
+      "class": "rectangle",
+      "id": "30C9F096-2433-4160-B5FD-2726AD696A5A"
+    },
+    {
+      "class": "shapePath",
+      "id": "B9018A3A-6FB0-4734-9DDB-6ED1687ABFF5"
+    },
+    {
+      "class": "rectangle",
+      "id": "6F1F28AA-DF3D-4963-9F2C-AB72C356E010"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4BA1DE0-5DF0-4349-ADB0-2716723DF91E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4FA3B5D-1796-4226-ACF4-3A38B13DEE58"
+    },
+    {
+      "class": "rectangle",
+      "id": "869CD5BE-3949-4BC3-9BC3-FAFF78687A9C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E09A114-C10C-4FF1-AE79-1AF04DDE154F"
+    },
+    {
+      "class": "shapePath",
+      "id": "8E24B6B6-04CE-4558-9CCC-C269E1EF2679"
+    },
+    {
+      "class": "rectangle",
+      "id": "46CE91D1-3DFC-4C98-8490-F98789A42EF7"
+    }
+  ],
+  "name": "计算器 (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "81D8F266-69A9-4630-9713-8D760BE1FE60",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.413981119791667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3BB67F6C-95EA-4245-AAF2-B52C8ABD9832",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

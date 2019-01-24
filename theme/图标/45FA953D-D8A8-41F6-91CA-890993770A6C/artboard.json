@@ -53,6 +53,10 @@
     {
       "class": "symbolInstance",
       "id": "912FC016-6BCB-4664-B6F0-8879EC607DB8"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0F54585-0469-494A-AD04-2577D159C39D"
     }
   ],
   "name": "com.huawei.himovie.overseas",

@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -53,6 +62,10 @@
     {
       "class": "symbolInstance",
       "id": "BBC15DAD-A993-437C-8E10-B850A54F9CF0"
+    },
+    {
+      "class": "group",
+      "id": "B57FA490-AA4A-42F4-B6CB-F05BF27A6E7A"
     }
   ],
   "name": "com.huawei.wallet",
@@ -71,7 +84,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

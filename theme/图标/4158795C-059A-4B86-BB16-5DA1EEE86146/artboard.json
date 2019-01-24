@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -49,6 +58,10 @@
     {
       "class": "symbolInstance",
       "id": "AABAA565-4BAD-48C7-A094-E349D4D07DA9"
+    },
+    {
+      "class": "group",
+      "id": "040AF00A-5C96-4472-AB48-352DA51E9273"
     },
     {
       "class": "symbolInstance",

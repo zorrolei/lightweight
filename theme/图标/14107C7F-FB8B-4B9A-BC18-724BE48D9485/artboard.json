@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,6 +60,14 @@
       "id": "C36B008D-C705-4152-91C5-DABE522376DE"
     },
     {
+      "class": "oval",
+      "id": "233A59A1-7CD9-4DF4-8F04-E0FF582058D4"
+    },
+    {
+      "class": "group",
+      "id": "198D9720-ABDF-4828-AD3D-D64DCF8A973F"
+    },
+    {
       "class": "symbolInstance",
       "id": "87565C97-D789-4DB7-BA50-73AB0BDD966D"
     }
@@ -71,7 +88,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

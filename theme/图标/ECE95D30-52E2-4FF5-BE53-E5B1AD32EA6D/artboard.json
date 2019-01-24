@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -49,6 +58,14 @@
     {
       "class": "symbolInstance",
       "id": "0418C204-53D4-4078-B200-75DD5D47D755"
+    },
+    {
+      "class": "oval",
+      "id": "1A33F72F-EC92-4ABF-ABF8-7D91BB1B0C98"
+    },
+    {
+      "class": "group",
+      "id": "6355A044-67FC-4EF3-A647-C0C27DA33940"
     },
     {
       "class": "symbolInstance",

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F038AF0B-650D-40D4-97D1-A94CF0B213B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCADB45D-0131-4E16-B6E8-D27006168B6C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A14310E5-DFDA-49F6-8AEB-AD5B8C427E0C",
+    "height": 46.33333333333334,
+    "width": 56.46875,
+    "x": 41.265625,
+    "y": 46.33333333333334
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7C74C84E-0DE5-4AA1-A9A5-365C9125C95E"
+    },
+    {
+      "class": "group",
+      "id": "6C74EBFF-00D5-4C1F-95CC-B138CC1B3E36"
+    }
+  ],
+  "name": "衣服",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C58CC0B5-D1A2-4893-B662-8AF4324685DB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.413981119791667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2D57D1CD-A48B-4535-B3F9-31D2C4A0A384",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.5380501795296717,
+          "green": 0.5380501795296717,
+          "red": 0.90625
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,8 +60,20 @@
       "id": "2CDB4A6B-9ED1-4862-8EF3-F2628CE58540"
     },
     {
+      "class": "group",
+      "id": "81DBA9DB-3073-40D9-96A7-5738E2C7C166"
+    },
+    {
       "class": "symbolInstance",
       "id": "3CB2D3BB-0736-4591-8F08-7079A5A32753"
+    },
+    {
+      "class": "group",
+      "id": "7BED664A-95FF-4902-8515-B16914A380CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83D029CB-1925-49DD-8CA0-47A88CE532C8"
     }
   ],
   "name": "com.android.soundrecorder",
@@ -71,7 +92,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

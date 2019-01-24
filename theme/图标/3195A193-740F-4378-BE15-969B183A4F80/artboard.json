@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -53,6 +62,22 @@
     {
       "class": "symbolInstance",
       "id": "516E2F62-3CF2-4D48-9E93-9C2C9147CFB5"
+    },
+    {
+      "class": "rectangle",
+      "id": "3AD808B5-869E-4EB4-BC00-C539D2271D75"
+    },
+    {
+      "class": "rectangle",
+      "id": "104BA5DF-D3F7-4215-BA7E-7EC59C22DC81"
+    },
+    {
+      "class": "group",
+      "id": "2B612846-D64D-495B-ADC1-E13AD1FA6963"
+    },
+    {
+      "class": "group",
+      "id": "8CB668EB-202F-4D78-8239-4818203C0732"
     }
   ],
   "name": "com.hicloud.android.clone",
@@ -71,7 +96,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -53,6 +62,18 @@
     {
       "class": "symbolInstance",
       "id": "390CE8A1-8E2A-43CC-9E06-D760D71691BD"
+    },
+    {
+      "class": "oval",
+      "id": "60BA7EAA-3BAE-4673-9DA7-D5F45223CB1F"
+    },
+    {
+      "class": "group",
+      "id": "71B7A3B5-E43E-4510-8B0A-0CABB114C9BE"
+    },
+    {
+      "class": "group",
+      "id": "69322AC4-55BC-4D41-BF80-CFB92C96DC96"
     }
   ],
   "name": "com.huawei.trustspace",

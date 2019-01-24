@@ -56,12 +56,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "CEDBD6F5-B1F6-47D1-98F5-D3F142E3A8DB"
+      "class": "symbolInstance",
+      "id": "47619565-9E5A-4ACA-A81F-B2F9CA26E831"
     },
     {
       "class": "symbolInstance",
-      "id": "47619565-9E5A-4ACA-A81F-B2F9CA26E831"
+      "id": "4202CAF6-48B2-446C-B054-70C8DA140C56"
     }
   ],
   "name": "底版",
@@ -80,7 +80,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

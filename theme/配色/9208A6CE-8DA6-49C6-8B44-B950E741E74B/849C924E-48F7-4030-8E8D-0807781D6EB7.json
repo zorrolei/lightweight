@@ -108,7 +108,7 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0, 0.5}",
+          "from": "{0.08842377953456125, 0.071148282804920859}",
           "gradientType": 0,
           "stops": [
             {
@@ -134,7 +134,7 @@
               "position": 1
             }
           ],
-          "to": "{1, 0.5}"
+          "to": "{1, 0.94687167629189595}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

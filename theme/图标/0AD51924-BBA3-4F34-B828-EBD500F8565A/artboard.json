@@ -53,6 +53,10 @@
     {
       "class": "symbolInstance",
       "id": "13FE6874-3872-4557-BC27-A9600172A9DE"
+    },
+    {
+      "class": "group",
+      "id": "6B51B47E-C73F-4970-9260-D913761343A1"
     }
   ],
   "name": "com.huawei.android.totemweather",

@@ -53,6 +53,10 @@
     {
       "class": "symbolInstance",
       "id": "E25E8233-04C1-4A50-A943-CD04D03EE822"
+    },
+    {
+      "class": "group",
+      "id": "12CC5A1C-65DE-4083-A038-494EBBF5C32B"
     }
   ],
   "name": "com.huawei.gamebox",
@@ -71,7 +75,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

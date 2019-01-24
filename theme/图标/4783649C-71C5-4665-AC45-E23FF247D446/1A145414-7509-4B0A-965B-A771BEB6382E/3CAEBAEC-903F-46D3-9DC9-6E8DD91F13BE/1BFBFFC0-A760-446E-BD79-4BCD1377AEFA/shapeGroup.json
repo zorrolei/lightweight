@@ -1,0 +1,115 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1BFBFFC0-A760-446E-BD79-4BCD1377AEFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 13.566,
+    "width": 64.6,
+    "x": 7.094999999999985,
+    "y": 52.43399999999998
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "78AB4027-3DF6-4369-80FC-FD94769722D7"
+    },
+    {
+      "class": "shapePath",
+      "id": "CEC60AA7-2534-4443-B664-53B862A618EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "69464A7C-FA85-4CCC-B7D7-4F14509F4C62"
+    },
+    {
+      "class": "shapePath",
+      "id": "4E076CEC-FC0F-4C4D-9B0B-43F9989FEB41"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F121E90-E0C0-4153-AFDC-AA36B4E30463"
+    },
+    {
+      "class": "shapePath",
+      "id": "2860770E-F39B-4FDE-824D-3C6DFD76C668"
+    }
+  ],
+  "name": "VMALL",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2256855867346939,
+          "green": 0.2256855867346939,
+          "red": 0.2256855867346939
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2256855867346939,
+          "green": 0.2256855867346939,
+          "red": 0.2256855867346939
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "PingFangSC-Semibold",
+            "size": 19
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
